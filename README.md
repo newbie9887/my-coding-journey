@@ -14,13 +14,13 @@ I'm a second-year Computer Science Engineering student.
 * Build web development projects
 * Prepare for internships
 
-\## What I'm Learning
+## What I'm Learning
 
 
 
-\- Git and GitHub
+* Git and GitHub
 
-\- C++ programming
+* C++ programming
 
-\- Web development
+* Web development
 
