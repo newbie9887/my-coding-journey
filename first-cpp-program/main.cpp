@@ -46,8 +46,29 @@ void calculator()
         } while (op!='0');
         
     }
+
+    int sum(int a, int b)
+    {
+        int sum=a+b;
+        return sum;
+    }
+    int subtract(int a, int b)
+    {
+        int difference = a-b;
+        return a-b;
+    }
+
+    int product(int a, int b)
+    {
+        int product = a*b;
+        return product;
+    }
     
 int main()
 {
-    calculator();
+    // calculator();
+    cout<<"Addition: "<<sum(10,5)<<endl; 
+    cout<<"Subtraction: "<<subtract(10,5)<<endl; 
+    cout<<"Multiplication: "<<product(10,5); 
+    return 0;
 }
